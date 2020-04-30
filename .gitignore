@@ -1,0 +1,7 @@
+.idea
+vendor/*
+log/*
+server.ini
+go.sum
+bash.exe.stackdump
+config/*
